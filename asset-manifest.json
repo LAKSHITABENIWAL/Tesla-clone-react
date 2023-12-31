@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/LAKSHITABENIWAL/Tesla-clone-react/static/css/main.c3cd1340.css",
-    "main.js": "/LAKSHITABENIWAL/Tesla-clone-react/static/js/main.0873d5a9.js",
-    "static/js/787.d4aba7ab.chunk.js": "/LAKSHITABENIWAL/Tesla-clone-react/static/js/787.d4aba7ab.chunk.js",
-    "static/media/TESLA_VID.mp4": "/LAKSHITABENIWAL/Tesla-clone-react/static/media/TESLA_VID.96203742493f064491ec.mp4",
-    "static/media/tc.jpg": "/LAKSHITABENIWAL/Tesla-clone-react/static/media/tc.c932123f43b399dc4fc3.jpg",
-    "static/media/models2.jpg": "/LAKSHITABENIWAL/Tesla-clone-react/static/media/models2.bb1f7301d8c08073ff29.jpg",
-    "static/media/modelx.jpg": "/LAKSHITABENIWAL/Tesla-clone-react/static/media/modelx.4f2572a77c85ef16cb17.jpg",
-    "static/media/cybertruck.jpg": "/LAKSHITABENIWAL/Tesla-clone-react/static/media/cybertruck.ab4f4c1ad02722eb9d44.jpg",
-    "static/media/models.jpg": "/LAKSHITABENIWAL/Tesla-clone-react/static/media/models.d5e54bca43d8b576ba02.jpg",
-    "static/media/modelx2.jpg": "/LAKSHITABENIWAL/Tesla-clone-react/static/media/modelx2.7f6704c3d1b904d281d8.jpg",
-    "index.html": "/LAKSHITABENIWAL/Tesla-clone-react/index.html",
-    "main.c3cd1340.css.map": "/LAKSHITABENIWAL/Tesla-clone-react/static/css/main.c3cd1340.css.map",
-    "main.0873d5a9.js.map": "/LAKSHITABENIWAL/Tesla-clone-react/static/js/main.0873d5a9.js.map",
-    "787.d4aba7ab.chunk.js.map": "/LAKSHITABENIWAL/Tesla-clone-react/static/js/787.d4aba7ab.chunk.js.map"
+    "main.css": "/Tesla-clone-react/static/css/main.c3cd1340.css",
+    "main.js": "/Tesla-clone-react/static/js/main.7126b10a.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Tesla-clone-react/static/js/787.d4aba7ab.chunk.js",
+    "static/media/TESLA_VID.mp4": "/Tesla-clone-react/static/media/TESLA_VID.96203742493f064491ec.mp4",
+    "static/media/tc.jpg": "/Tesla-clone-react/static/media/tc.c932123f43b399dc4fc3.jpg",
+    "static/media/models2.jpg": "/Tesla-clone-react/static/media/models2.bb1f7301d8c08073ff29.jpg",
+    "static/media/modelx.jpg": "/Tesla-clone-react/static/media/modelx.4f2572a77c85ef16cb17.jpg",
+    "static/media/cybertruck.jpg": "/Tesla-clone-react/static/media/cybertruck.ab4f4c1ad02722eb9d44.jpg",
+    "static/media/models.jpg": "/Tesla-clone-react/static/media/models.d5e54bca43d8b576ba02.jpg",
+    "static/media/modelx2.jpg": "/Tesla-clone-react/static/media/modelx2.7f6704c3d1b904d281d8.jpg",
+    "index.html": "/Tesla-clone-react/index.html",
+    "main.c3cd1340.css.map": "/Tesla-clone-react/static/css/main.c3cd1340.css.map",
+    "main.7126b10a.js.map": "/Tesla-clone-react/static/js/main.7126b10a.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Tesla-clone-react/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3cd1340.css",
-    "static/js/main.0873d5a9.js"
+    "static/js/main.7126b10a.js"
   ]
 }
