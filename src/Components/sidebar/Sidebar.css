@@ -1,0 +1,37 @@
+nav.sidebar {
+  position: fixed;
+  right: 0;
+  top: 0;
+  height: 100vh;
+  width: 400px;
+  z-index: 1000; /* Adjusted z-index */
+  background-color: white;
+  color: black;
+  padding-top: 20px; /* Added padding-top to make room for the button */
+}
+
+nav.sidebar button {
+  position: absolute;
+  top: 10px; /* Adjusted top position */
+  right: 10px; /* Adjusted right position */
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 10px;
+  font-size: 20px;
+}
+
+nav.sidebar ul {
+  list-style-type: none;
+  margin: 0; /* Removed margin-top */
+}
+
+nav.sidebar ul li {
+  padding: 10px;
+  cursor: pointer;
+}
+
+nav.sidebar ul li:hover,
+nav.sidebar button:hover {
+  background-color: var(--hover-background);
+}
