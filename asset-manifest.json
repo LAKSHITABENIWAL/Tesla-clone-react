@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/demo-crud1/static/css/main.c3cd1340.css",
-    "main.js": "/demo-crud1/static/js/main.8b15f061.js",
+    "main.js": "/demo-crud1/static/js/main.6a2dd628.js",
     "static/js/787.d4aba7ab.chunk.js": "/demo-crud1/static/js/787.d4aba7ab.chunk.js",
     "static/media/TESLA_VID.mp4": "/demo-crud1/static/media/TESLA_VID.96203742493f064491ec.mp4",
     "static/media/tc.jpg": "/demo-crud1/static/media/tc.c932123f43b399dc4fc3.jpg",
@@ -12,11 +12,11 @@
     "static/media/modelx2.jpg": "/demo-crud1/static/media/modelx2.7f6704c3d1b904d281d8.jpg",
     "index.html": "/demo-crud1/index.html",
     "main.c3cd1340.css.map": "/demo-crud1/static/css/main.c3cd1340.css.map",
-    "main.8b15f061.js.map": "/demo-crud1/static/js/main.8b15f061.js.map",
+    "main.6a2dd628.js.map": "/demo-crud1/static/js/main.6a2dd628.js.map",
     "787.d4aba7ab.chunk.js.map": "/demo-crud1/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3cd1340.css",
-    "static/js/main.8b15f061.js"
+    "static/js/main.6a2dd628.js"
   ]
 }
